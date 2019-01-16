@@ -1,0 +1,4 @@
+management:
+  context-path: /sysinfo
+server:
+  port: 9092
